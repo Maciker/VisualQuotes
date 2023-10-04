@@ -1,0 +1,11 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Knowledge is Power",
+      "author": "Francis Bacon",
+      "visual": "https://cdn.midjourney.com/6cf63138-02f2-4b6f-b682-38ab2e52dac0/0_2.webp",
+      "prompt": "knowledge is power, in minimalist style"
+    }
+  ]
+}
