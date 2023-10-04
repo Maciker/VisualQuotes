@@ -1,2 +1,1 @@
-# VisualQuotes
-Visual Quotes Front End
+# Visual Quotes
